@@ -4,12 +4,45 @@
   
   
   <entry>
+    <title>my HK trip</title>
+    <link href="/2026/05/18/my%20HK%20trip/"/>
+    <url>/2026/05/18/my%20HK%20trip/</url>
+    
+    <content type="html"><![CDATA[<p>I love walking the street of HK.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>trip</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>trip</tag>
+      
+      <tag>HK</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>My first Blog</title>
     <link href="/2026/05/16/hello-world/"/>
     <url>/2026/05/16/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Here are Halric’s snippets.<br>This is a static website I built using GitHub Pages and Hexo.<br>I plan to share some random thoughts and snippets here in the future.</p><p>Hope you have a wonderful day!</p>]]></content>
     
+    
+    <categories>
+      
+      <category>about</category>
+      
+    </categories>
     
     
     <tags>
